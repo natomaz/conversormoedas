@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">conversormoedas</string>
+    <string name="titulo">Conversor de Moedas</string>
+    <string name="botao">Converter</string>
+    <string name="dolar">$</string>
+    <string name="euro">€</string>
+    <string name="ouro">Ouro</string>
+    <string name="bitcoin">Bitcoin</string>
+</resources>
